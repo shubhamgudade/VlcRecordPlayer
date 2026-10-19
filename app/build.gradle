@@ -4,14 +4,14 @@
 apply plugin: 'com.android.application' // apply plugin
 
 android {
-//    compileSdkVersion 34
+//    compileSdkVersion 36
 //    buildToolsVersion "30.0.2"
 //    namespace 'com.company.shenzhou'
-    compileSdk 34
+    compileSdk 36
     namespace 'com.company.shenzhou'
     defaultConfig {
         minSdk 24
-        targetSdk 34
+        targetSdk 36
         versionCode 1
         versionName "1.0"
 
@@ -28,7 +28,7 @@ android {
 ////        applicationId "com.company.shenzhou1"
 ////        applicationId "com.company.shenzhou"
 //        minSdkVersion 24
-//        targetSdkVersion 34
+//        targetSdkVersion 36
 //        versionCode 9
 //        versionName "1.1.9"
 //        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

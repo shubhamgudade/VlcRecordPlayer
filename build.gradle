@@ -19,7 +19,7 @@ buildscript {
 
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:8.4.2"
+        classpath "com.android.tools.build:gradle:8.9.2"
 //        classpath 'com.jakewharton:butterknife-gradle-plugin:10.2.0'
 //        classpath 'org.greenrobot:greendao-gradle-plugin:3.3.0' // add plugin greendao数据库
 //        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.0'   //rtsp rtmp推流(音频)

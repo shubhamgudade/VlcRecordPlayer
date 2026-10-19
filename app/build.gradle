@@ -128,6 +128,7 @@ android {
 }
 
 dependencies {
+    implementation 'org.videolan.android:libvlc-all:3.7.5'
     //vlc
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation project(':libvlc')  // 添加libvlc模块依赖

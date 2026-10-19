@@ -169,7 +169,7 @@ dependencies {
     releaseImplementation 'io.github.didi.dokit:dokitx-no-op:3.5.0.1'
     implementation 'io.reactivex.rxjava2:rxjava:2.1.6'
     implementation 'io.reactivex.rxjava2:rxandroid:2.0.1'
-    implementation 'com.github.Baseflow:PhotoView:2.3.0'
+    implementation 'com.github.chrisbanes:PhotoView:2.3.0'
     //工具类
     implementation 'com.blankj:utilcode:1.30.7'
     // 必选，内部默认使用系统mediaplayer进行解码
